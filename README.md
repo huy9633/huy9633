@@ -1,4 +1,4 @@
-![image](https://github.com/huy9633/huy9633/assets/92261433/19c71b68-ca41-4286-a35c-acd593775f29)<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -36,20 +36,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="h[ttps://img.icons8.com/bubbles/100/000000/facebook-new.png](https://icons8.com/icon/118555/facebook)" alt="huy9633-facebook" />
+  <a href="https://facebook.com/chanhuy.9633" target="blank">
+    <img src="https://img.icons8.com/nolan/90/1A6DFF/C822FF/facebook-new.png" alt="huy9633-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.linkedin.com/in/huy-lâm-chấn-222a43209" target="blank">
+    <img src="https://img.icons8.com/nolan/90/1A6DFF/C822FF/linkedin.png" alt="huy9633-linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://instagram.com/chanhuy.lam518" target="blank">
+    <img src="https://img.icons8.com/nolan/90/1A6DFF/C822FF/instagram-new.png" alt="huy9633-instagram" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:lamchanhuy9633@gmail.com" target="top">
+    <img src="https://img.icons8.com/nolan/90/1A6DFF/C822FF/gmail.png" alt="huy9633-email" />
   </a>
 </div>
 
