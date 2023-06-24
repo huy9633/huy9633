@@ -1,3 +1,6 @@
+<a href="#" target="_blank">
+  <img src="svg/huy9633.svg" width="1200" alt="lamchanhuy" />
+</a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
