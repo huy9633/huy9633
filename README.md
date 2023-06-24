@@ -56,6 +56,6 @@
 <h2 align="center">📑 My Favorites Random Quote 📑</h2>
 <br>
 <div align = "right">
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=default&font=Gabrielle)
 </div>
 
